@@ -1,4 +1,3 @@
-import React from 'react'
 import { Icon } from './types'
 
 const Tiktok = ({ height = '24', width = '25' }: Icon) => {

@@ -1,4 +1,4 @@
-import { Navbar } from '@/components'
+import { Header } from '@/components'
 import { useResponsive } from '@/hooks';
 import React from 'react'
 
@@ -10,7 +10,7 @@ export const Main = () => {
 
     return (
         <div className=''>
-            <Navbar />
+            <Header />
         </div>
     )
 }
