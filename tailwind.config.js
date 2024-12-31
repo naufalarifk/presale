@@ -14,6 +14,9 @@ export default {
         xl: '32px',
       },
     },
+    colors: {
+      primary: '#0FBBFF'
+    }
   },
   plugins: [],
 }
